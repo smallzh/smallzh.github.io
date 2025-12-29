@@ -38,6 +38,11 @@
 35. Your relationship with yourself sets the tone for every other relationship you have.
 36. The best way to cheer yourself up is to try to cheer somebody else up.
 37. There’s no such things as a small act of kindness. Every act creates a ripple with no logical end.(故事精彩的本质)
+38. Don't let the behavior of others destroy your inner peace.
+39. Awareness is the greatest agent for change.
+40. Do not seek to follow in the footsteps of others, instead, seek what they sought.
+41. Live as if you were to die tomorrow. Learn as if you were to live forever.
+42. Talent is a pursued interest. Anything that you're willing to practice, you can do.
 
 ## 2. 单词
 1. alone: *adj/adv*，单独；独自；仅仅，单，只；唯一，只有；孤独；单独地；寂寞；独力；孤苦伶仃；无依无靠
@@ -91,3 +96,8 @@
 48. act: *n/v*, n：行为，行动，所为；(议会通过的)法案，法令；表演，假装；一幕；表演者；一段表演; v：行为；行动；充当；表演，假装；扮演；举止；做事；（对…）有作用，有影响；
 49. kindness: *n*, n：善良；仁慈；宽容；体贴；友好的举动
 50. ripple: *n/v*, n：波纹；涟漪；细浪；起伏的声音；逐渐扩散的感觉；(外观或运动)如波纹的东西; v：扩散；涌起
+51. awareness `/əˈweənəs/` : *n*, n：认识；意识；知道；兴趣
+52. agent `/ˈeɪdʒənt/` : *n*, n：(演员、音乐家、运动员、作家等的)代理人；（化学）剂；(企业、政治等的)经纪人；动因(指对事态起重要作用的人、事物)；原动力；施事者
+53. seek `/siːk/` : *v*: 寻找；寻求；寻求（或追求）…的；试图；谋求；争取；(向人)请求
+54. talent `ˈtælənt` : *n*: 才能;天赋;人才;天才;天资;有才能的人;(统称)性感的人;
+55. pursue `pərˈsuː` : *v*: 追求;执行;致力于;追逐;追赶;贯彻;跟踪;继续探讨(或追究、从事);
