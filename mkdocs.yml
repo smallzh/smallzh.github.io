@@ -2,7 +2,7 @@ site_name: smallzh
 site_url: https://smallzh.top/
 
 nav:
-  - Home: index.html
+  - Home: index.md
   - Githup: github_repo.md
 
 theme:
