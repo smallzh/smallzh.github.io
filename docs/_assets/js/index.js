@@ -6,6 +6,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     console.log('新增元素:', node);
                 }
             });
+
+        });
+        //
+        document.getElementById('readthedocs-ea-text-nostyle-nodoctool').addEventListener('click', function() {
+            this.classList.toggle('expanded');
         });
     });
 
