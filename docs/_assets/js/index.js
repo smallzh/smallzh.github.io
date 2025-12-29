@@ -5,9 +5,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (node.nodeType === Node.ELEMENT_NODE) {
                     if (node.id == 'readthedocs-ea-text-nostyle-nodoctool') {
                         // 插入 广告标记
-                        var htmlString = `<div class="icon">📢</div>`;
-                        node.insertAdjacentHTML('afterbegin', htmlString);
-                    } else {
+                        var icon = document.createElement('div');
+                        icon.className = 'icon';
+                        icon.textContent = '📢';
+                        node.appendChild(icon);
+                    } else if (node.nodeName == 'readthedocs-flyout') {
                         // 隐藏
                         node.hidden = true;
                     }
